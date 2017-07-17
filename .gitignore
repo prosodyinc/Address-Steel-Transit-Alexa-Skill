@@ -1,0 +1,13 @@
+*.class
+*.DS_Store
+*.classpath
+*.project
+*.bak
+target/
+.settings/
+build.gradle
+
+# Package Files #
+*.war
+*.ear
+/bin/
